@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Saad Ali</h1>
 <h3 align="center">A passionate Backend Developer & QA Analyst from Pakistan</h3>
 
-🔭 I’m currently working on [Laravel-based Web Application](Building robust backend features, integrating secure authentication.)
+🔭 I’m currently working on [Laravel-based Web Application] (Building robust backend features, integrating secure authentication.)
 
-👯 I’m looking to collaborate on [Laravel, PHP, and MySQL Projects](Open to working with teams or individuals on scalable backend systems.)
+👯 I’m looking to collaborate on [Laravel, PHP, and MySQL Projects] (Open to working with teams or individuals on scalable backend systems.)
 
 🕰 Past Experience [Worked as a **Manual QA Analyst**] (Performed functional, regression, and user acceptance testing for web applications.)
 
